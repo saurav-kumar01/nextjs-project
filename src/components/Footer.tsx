@@ -51,19 +51,19 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
             <a
-              href="#"
+              href="https://www.facebook.com/saursbhkumar.saursbhkumar.7?mibextid=ZbWKwL"
               className="hover:text-white transition-colors duration-300"
             >
               Facebook
             </a>
             <a
-              href="#"
+              href="https://x.com/SauravK16936763"
               className="hover:text-white transition-colors duration-300"
             >
               Twitter
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/sauravkumar_2/"
               className="hover:text-white transition-colors duration-300"
             >
               Instagram
@@ -72,10 +72,10 @@ function Footer() {
         </div>
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-          <p>New Delhi, India</p>
-          <p>Delhi 10001</p>
-          <p>Email: info@musicschool.com</p>
-          <p>Phone: (123) 456-7890</p>
+          <p>Bulandshahr Uttar Pradesh, India</p>
+          <p>Khanpur 245405</p>
+          <p>Email: saurabhmahur@gmail.com</p>
+          <p>Phone: 8077320716</p>
         </div>
       </div>
       <p className="text-center text-xs pt-8">
