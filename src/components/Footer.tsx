@@ -72,10 +72,10 @@ function Footer() {
         </div>
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-          <p>Bulandshahr Uttar Pradesh, India</p>
-          <p>Khanpur 245405</p>
-          <p>Email: saurabhmahur@gmail.com</p>
-          <p>Phone: 8077320716</p>
+          <p>Bulxxxxx Uttar Pradesh, India</p>
+          <p>Khxxxxx 20xxxx</p>
+          <p>Email: saurxxxx@gmail.com</p>
+          <p>Phone: 80773xxxxx</p>
         </div>
       </div>
       <p className="text-center text-xs pt-8">
